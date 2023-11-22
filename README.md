@@ -13,5 +13,9 @@ Available auxiliary modules for WireEye (subset of modules released) are as foll
   * **BSSIDGAZER** - Intra wireless NIC (Network Interface Card) wireless information parser.
   * **CRABGRABBER** - Wireless NIC credential (Network Information details: Clear-text Key, RSSI, etc in XML format) as well as a general NIC GUID formatter.
 
+<br/>
+<br/>
+<br/>
+
 > [!WARNING]
  The installation and or execution flow/usage of each module have not been serviced to Github at the moment. This will be released as more updates are pushed and the base structure is redesigned to support a bigger code base.
