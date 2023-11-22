@@ -3,7 +3,7 @@
 
 <br/>
 
-Dynamic 802.11 and NIC interface extension based modules for WireEye wireless reconnaissance framework.
+*Dynamic 802.11 NIC extension based modules for the WireEye wireless reconnaissance framework.*
 
 <br/>
 
