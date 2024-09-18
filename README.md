@@ -3,6 +3,10 @@
 
 <br/>
 
+[![PlatinumVoyager - WirelessAdvocate](https://img.shields.io/static/v1?label=PlatinumVoyager&message=WirelessAdvocate&color=blue&logo=github)](https://github.com/PlatinumVoyager/WirelessAdvocate "Go to GitHub repo")
+[![stars - WirelessAdvocate](https://img.shields.io/github/stars/PlatinumVoyager/WirelessAdvocate?style=social)](https://github.com/PlatinumVoyager/WirelessAdvocate)
+[![forks - WirelessAdvocate](https://img.shields.io/github/forks/PlatinumVoyager/WirelessAdvocate?style=social)](https://github.com/PlatinumVoyager/WirelessAdvocate)
+
 *Dynamic 802.11 NIC extension based modules for the WireEye wireless reconnaissance framework.*
 
 <br/>
